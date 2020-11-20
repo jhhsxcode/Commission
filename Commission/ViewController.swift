@@ -14,12 +14,15 @@ class ViewController: UIViewController {
     @IBOutlet weak var totalPayLabel: UILabel!
     @IBOutlet weak var commissionPayTextField: UITextField!
     
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
-    @IBAction func whenCalculateButtonPressed(_ sender: Any) {
+    @IBAction func whenCalculateButtonPressed(_ sender: Any)
+    {
+        
     }
     
 }
