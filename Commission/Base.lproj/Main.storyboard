@@ -22,15 +22,15 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="36"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Regular Pay=" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DHq-Iz-0rG">
-                                                <rect key="frame" x="0.0" y="0.0" width="295.66666666666669" height="36"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="277" height="36"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$500.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8zA-go-jaI">
-                                                <rect key="frame" x="295.66666666666669" y="0.0" width="118.33333333333331" height="36"/>
+                                                <rect key="frame" x="277" y="0.0" width="137" height="36"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="118.33" id="CS7-64-YZh"/>
+                                                    <constraint firstAttribute="width" constant="137" id="CS7-64-YZh"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <nil key="textColor"/>
@@ -41,7 +41,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OIW-yA-jjQ">
                                         <rect key="frame" x="0.0" y="36" width="414" height="44"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Commission Pay=" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EDw-YZ-TJP">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Commission Pay=$" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EDw-YZ-TJP">
                                                 <rect key="frame" x="0.0" y="0.0" width="295.66666666666669" height="44"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <nil key="textColor"/>
@@ -61,15 +61,15 @@
                                         <rect key="frame" x="0.0" y="80" width="414" height="50"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Total Pay=" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qxn-VW-CZ5">
-                                                <rect key="frame" x="0.0" y="0.0" width="295.66666666666669" height="50"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="277" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RJs-dq-e8E">
-                                                <rect key="frame" x="295.66666666666669" y="0.0" width="118.33333333333331" height="50"/>
+                                                <rect key="frame" x="277" y="0.0" width="137" height="50"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="118.33" id="ztV-VL-8SH"/>
+                                                    <constraint firstAttribute="width" constant="137" id="ztV-VL-8SH"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <nil key="textColor"/>
@@ -106,7 +106,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-26" y="75"/>
+            <point key="canvasLocation" x="-123" y="74"/>
         </scene>
     </scenes>
 </document>

@@ -31,10 +31,10 @@ class ViewController: UIViewController {
         
         let totalPay = Double(basePay) + commissionPay
         
-        totalPayLabel.text = "\(totalPay)"
+        let totalOutput = String(format: "%.2f", totalPay)
+        
+        totalPayLabel.text = "$\(totalOutput)"
     }
-    
-    
     
 }
 
