@@ -101,7 +101,7 @@
                     </view>
                     <connections>
                         <outlet property="commissionPayTextField" destination="pci-ZK-4fW" id="Bcr-37-afv"/>
-                        <outlet property="totalPayLabel" destination="RJs-dq-e8E" id="thj-G4-Xd7"/>
+                        <outlet property="totalPayLabel" destination="RJs-dq-e8E" id="Dkl-Qt-SqW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
